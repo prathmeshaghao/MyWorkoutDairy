@@ -13,7 +13,7 @@ My WORKOUT DIARY is a web application designed to help users manage their workou
    - Users have the ability to delete specific workouts, giving them full control over their workout history.
 
 *Technology Stack:*
-- *[MongoDB:]*(https://www.mongodb.com/)
+- [*MongoDB:*](https://www.mongodb.com/)
   - A NoSQL database used to store user information and workout data.
 - *[Express.js:]*(https://expressjs.com/)
   - A backend framework for building robust and scalable APIs.
