@@ -1,4 +1,4 @@
-# My WORKOUT DIARY
+# MY WORKOUT DIARY
 
 My WORKOUT DIARY is a web application designed to help users manage their workout routines. The project utilizes the MERN stack, combining MongoDB, Express.js, React.js, and Node.js to create a seamless and efficient user experience.
 
