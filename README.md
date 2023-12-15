@@ -15,13 +15,13 @@ My WORKOUT DIARY is a web application designed to help users manage their workou
 *Technology Stack:*
 - [*MongoDB:*](https://www.mongodb.com/)
   - A NoSQL database used to store user information and workout data.
-- *[Express.js:]*(https://expressjs.com/)
+- [*Express.js:*](https://expressjs.com/)
   - A backend framework for building robust and scalable APIs.
-- *[React.js:]*(https://reactjs.org/)
+- [*React.js:*](https://reactjs.org/)
   - A front-end library for building interactive and dynamic user interfaces.
-- *[Node.js:]*(https://nodejs.org/en)
+- [*Node.js:*](https://nodejs.org/en)
   - A JavaScript runtime for server-side development, powering the backend of the application.
-- *[Authentication:]*(https://jwt.io/)
+- [*Authentication:*](https://jwt.io/)
   - JWT (JSON Web Tokens) are used for secure user authentication and authorization.
 
 *Security:*
